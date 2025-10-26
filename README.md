@@ -18,7 +18,7 @@ An inspirational quote generator with a modern and clean interface. Vanilla Java
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://olivier-RIVIERE.github.io/quote-generator)
+[View Live Demo](https://olivier-RIVIERE.github.io/quote_generator)
 
 ## 🛠️ Built With
 
@@ -29,7 +29,7 @@ An inspirational quote generator with a modern and clean interface. Vanilla Java
 ## 📦 Installation
 
 1. **Clone the repository**
-- git clone https://github.com/your-username/quote-generator.git
+- git clone https://github.com/your-username/quote_generator.git
 - cd quote-generator
 
 
