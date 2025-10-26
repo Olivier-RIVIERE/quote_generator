@@ -5,7 +5,7 @@
 
 An inspirational quote generator with a modern and clean interface. Vanilla JavaScript project built to improve DOM manipulation and algorithmic skills.
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](./src/assets/img/screenshot.png)
 
 ## ✨ Features
 
